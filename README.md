@@ -1,0 +1,2 @@
+# veriloghdl
+THIS IS MY FIRSGIYHUB REPOSITORY
